@@ -1,16 +1,6 @@
-# stonehenge
+# Stonehenge
 
-A new Flutter project.
+## Mortar
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Mortar is a workable paste which hardens to bind building blocks such as stones, bricks, and concrete masonry units, to fill and seal the irregular gaps between them, spread the weight of them evenly, and sometimes to add decorative colors or patterns to masonry walls.
+Each mortar type is mixed with a different ratio of cement, lime, and sand to produce specific performance characteristics such as flexibility, bonding properties, and compressive strength. The best mortar mix type for any project depends on the application and the various design specifications for the masonry construction.
