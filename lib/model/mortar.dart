@@ -15,10 +15,10 @@ class Mortar {
     );
   }
 
-  Mortar mortarDemo = Mortar(
+  Mortar mortar = Mortar(
     name: "My Mortar",
     description: "Look at my mortar, my mortar is amazing.",
     recipe: "Shaken, not stirred.",
-    image: "https://www.123rf.com/photo_86360123_texture-of-ready-mixed-concrete-cement-mortar-for-building-floor-house-.html",
+    image: "https://previews.123rf.com/images/ieang/ieang1709/ieang170900020/86360123-texture-of-ready-mixed-concrete-cement-mortar-for-building-floor-house-.jpg",
   );
 }
