@@ -61,7 +61,7 @@ class Body extends StatelessWidget {
 }
 
 class MortarCategory extends StatelessWidget {
-  const MortarCategory({Key key}) : super(key: key);
+  MortarCategory({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
